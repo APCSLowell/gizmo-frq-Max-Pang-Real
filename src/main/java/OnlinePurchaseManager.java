@@ -30,8 +30,7 @@ public class OnlinePurchaseManager
         return true;
       }
     }
-  }
-  return false;
+    return false;
   }
   public OnlinePurchaseManager()
   {
